@@ -8,7 +8,6 @@ countries = []
 inflations = {}
 countries_by_continent = Hash.new {|hash, key| hash[key] = []}
 classified.xpath("//country").each do |country|
-
 	if country["population"].to_i > population
 		population = country["population"].to_i
 		country_name = country["name"]
