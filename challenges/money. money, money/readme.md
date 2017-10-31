@@ -14,13 +14,13 @@ Note that the principal is not taxed but only the year's accrued interest
   ```
 
 
->After 1st Year -->
-  >P = 1041.00
->After 2nd Year -->
-  >P = 1083.86
->After 3rd Year -->
-  >P = 1128.30
-
+```After 1st Year -->
+  P = 1041.00
+After 2nd Year -->
+  P = 1083.86
+After 3rd Year -->
+  P = 1128.30
+```
 Thus Mr. Scrooge has to wait for 3 years for the initial pricipal to ammount to the desired sum.
 
 Your task is to complete the method provided and return the number of years 'Y' as a whole in order for Mr. Scrooge to get the desired sum.
